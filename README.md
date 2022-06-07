@@ -12,3 +12,4 @@ I want to learn more in depth on how to use certain types of codes and more abou
 
 ## Why computer science is important to me!
 Computer science is important to me because it seems like it is a fun and nice thing to learn!
+
